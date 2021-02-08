@@ -1,0 +1,232 @@
+html, body {
+    position: relative;
+    height: 100%;
+  }
+  
+  body {
+    background: #eee;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #000;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .swiper-container {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .swiper-slide {
+    font-size: 18px;
+    background: #fff;
+    /* Center slide text vertically */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+  }
+  .swiper-slide.slide-1 {
+    background: #3c6382;
+     
+  }
+  .swiper-slide.slide-2 {
+    background: #78e08f;
+  }
+  .swiper-slide.slide-3 {
+    background: #60a3bc;
+  }
+  .swiper-slide.slide-4 {
+    background: #e55039;
+  }
+  .swiper-slide.slide-5 {
+    background: #6f00ff;
+  }
+  .swiper-slide.slide-6 {
+    background: #d739e5;
+  }
+  .swiper-slide.slide-7 {
+    background: #3967e5;
+  }
+  .swiper-slide.slide-8 {
+    background: #4439e5;
+  }
+  .swiper-slide.slide-9 {
+    background: #001b42;
+  }
+  .swiper-slide.slide-10 {
+    background: #39e5ac;
+  }
+  .swiper-slide.slide-11 {
+    background: #db9dc4;
+  }
+  .swiper-slide.slide-12 {
+    background: #520b00;
+  }
+  .swiper-slide.slide-13 {
+    background: #5e004e;
+  }
+  .swiper-slide.slide-14 {
+    background: #ff5e00;
+  }
+  .swiper-slide.slide-15 {
+    background: #000000;
+  }
+  .swiper-slide.slide-16 {
+    background: #1a59aa;
+  }
+  .swiper-slide.slide-17 {
+    background: #00295e;
+  }
+  .swiper-slide.slide-18 {
+    background: #445700;
+  }
+  .swiper-slide.slide-19 {
+    background: #833c6e;
+  }
+  .swiper-slide.slide-20 {
+    background: #5f7010;
+  }
+  .swiper-slide.slide-21 {
+    background: #100068;
+  }
+  .swiper-slide.slide-22 {
+    background: #0012b8;
+  }
+  
+  .container {
+    max-width: 1170px;
+    width: 100%;
+  }
+  
+  .item-content {
+    position: relative;
+  }
+  
+  .featured-img {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 0;
+    background-position: center;
+  }
+  .featured-img img {
+    max-width: 900px;
+    height: auto;
+  }
+  
+  .slider-content {
+    position: relative;
+    z-index: 10;
+  }
+  
+  .slider-content .title {
+    background-color: #000;
+    font-size: 72px;
+    color: #fff;
+    line-height: 1;
+    margin: 0 0 15px;
+    letter-spacing: -2.5px;
+    display: inline-block;
+    padding: 7px 20px 7px 0;
+  }
+  .slider-content .title div {
+    display: inline;
+  }
+  
+  .desc-1 {
+    margin-top: 64px;
+    color: rgb(255, 0, 0);
+  }
+  .desc-2 {
+    margin-top: 64px;
+    color: rgb(255, 0, 0);
+  }
+  .desc-3 {
+    margin-top: 64px;
+    background: #0012b888;
+    color: rgb(255, 0, 200);
+  }
+  
+  .subtitle.slide {
+    font-size: 35px;
+    color: #fff;
+  }
+  
+  @import url(https://fonts.googleapis.com/css?family=Work+Sans:400,300);
+  body {
+    font-family: 'Work Sans', sans-serif;
+    background: #F8BBCF;
+    color: #333;
+  }
+  
+  *,
+  *:before,
+  *:after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    opacity: .8;
+  }
+  
+  .open {
+    display: inline-block;
+    color: #27677B;
+    background: #99E1F7;
+    border: 1px solid #4995AD;
+    border-radius: 3px;
+  }
+  
+  #dawind {
+    position: absolute;
+    top: -254px;
+    background: white;
+    width: 50vw;
+    left: 50%;
+    margin-left: -25vw;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, .2);
+    border-radius: 4px;
+    padding: 1em 1.5em;
+    opacity: 0;
+    z-index: 999;
+    transition: .2s;
+  }
+  
+  #dawind:target {
+    transform: translate(0, 40vh);
+    transition: .5s transform ease-in, .3s .4s opacity;
+    opacity: 1;
+  }
+  
+  .close {
+    display: inline-block;
+    color: #888;
+    margin-top: 1em;
+  }
+  
+  #dawind:target ~ #wrapper {
+    -webkit-filter: blur(5px);
+    filter: blur(5px);
+    cursor: default;
+    opacity: .5;
+  }
+  
+  #close {
+    position: absolute;
+  }
+  
