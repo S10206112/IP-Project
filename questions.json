@@ -1,0 +1,190 @@
+[
+  {
+    "question": "When did the Space Race begin?",
+    "choice1": "2 August 1955",
+    "choice2": "9 August 1965",
+    "choice3": "1 September 1939",
+    "choice4": "1 April 1962",
+    "answer": 1
+  },
+  {
+    "question": "What is the name of the first Earth-orbiting satellite?",
+    "choice1": "S.W.O.R.D",
+    "choice2": "Sputnik 1",
+    "choice3": "Sojourner",
+    "choice4": "Neil Alden Armstrong",
+    "answer": 2
+  },
+  {
+    "question": "What is the name of the first dog to go to Space?",
+    "choice1": "Milo",
+    "choice2": "Laika",
+    "choice3": "Oscar",
+    "choice4": "Max",
+    "answer": 2
+  },
+  {
+    "question": "Who joined the Space Race on 31 January 1958?",
+    "choice1": "United States",
+    "choice2": "Singapore",
+    "choice3": "China",
+    "choice4": "Germany",
+    "answer" : 1
+  },
+  {
+    "question": "On 1 October 1958, NACA was replaced by NASA. What did NACA stand for?",
+    "choice1": "National Advisory Committee on Aeronautics",
+    "choice2": "National Aeronautics and Cosmology Administration",
+    "choice3": "Nobody Actually Cares Already",
+    "choice4": "Neil Armstrong Cares Association",
+    "answer": 1
+  },
+  {
+    "question": "On 18 December 1958, who was the first person to be broadcasted from space?",
+    "choice1": "Keanu Reeves",
+    "choice2": "Neil Armstrong",
+    "choice3": "Dwight D. Eisenhower",
+    "choice4": "Yuri Gagarin",
+    "answer": 3
+  },
+  {
+    "question": "Luna 1 became the first human-made object to orbit the _____?",
+    "choice1": "Sun",
+    "choice2": "Moon",
+    "choice3": "Earth",
+    "choice4": "Itself",
+    "answer": 1
+
+  },
+  {
+    "question": "What is the name of the first satellite to obtain images of the Earth?",
+    "choice1": "Explorer 3",
+    "choice2": "Explorer X",
+    "choice3": "Dora the Explorer",
+    "choice4": "Explorer 6",
+    "answer": 4
+  },
+  {
+    "question": "What is the name of the first spacecraft to reach the Moon?",
+    "choice1": "Luna 2",
+    "choice2": "Lunar 6",
+    "choice3": "Luna the Tuna",
+    "choice4": "Tuna MX",
+    "answer": 1
+
+  },
+  {
+    "question": "What was Luna 3 known for accomplishing?",
+    "choice1": "A better spacecraft than Luna 2",
+    "choice2": "Exploding before reaching the Moon",
+    "choice3": "Getting in contact with Aliens",
+    "choice4": "Photographing the far side of the moon",
+    "answer": 4
+
+  },
+  {
+    "question": "What are the names of the first 2 dogs to return from Space?",
+    "choice1": "Korone and Okayu",
+    "choice2": "Laika and Daika",
+    "choice3": "Belka and Strelka",
+    "choice4": "Dialga and Palkia",
+    "answer": 3
+  },
+  {
+    "question": "On 31 January 1961, Ham became the first of its kind to be sent into space, what type of animal was Ham?",
+    "choice1": "Insect",
+    "choice2": "Chimpanzee",
+    "choice3": "Duck",
+    "choice4": "Octopus",
+    "answer": 2
+  },
+  {
+    "question": "What are the names of the first 2 dogs to return from Space?",
+    "choice1": "Korone and Okayu",
+    "choice2": "Laika and Daika",
+    "choice3": "Belka and Strelka",
+    "choice4": "Dialga and Palkia",
+    "answer": 3
+  },
+  {
+    "question": "On 12 April 1961, who became the first man to reach space?",
+    "choice1": "John Wick",
+    "choice2": "Valentina Tereshkova",
+    "choice3": "Yuri Gagarin",
+    "choice4": "Ricardo Milos",
+    "answer": 3
+  },
+  {
+    "question": "What was Valentina Tereshkova known for?",
+    "choice1": "Eating ice-cream in space",
+    "choice2": "Leading the team to build the Vostok 6 spacecraft",
+    "choice3": "President of NASA",
+    "choice4": "First civilian and woman to be in Space",
+    "answer": 4
+  },
+  {
+    "question": "Who is the first person to do a spacewalk?",
+    "choice1": "Alexei Leonov",
+    "choice2": "Neil Armstrong",
+    "choice3": "Yuri Gagarin",
+    "choice4": "Laika",
+    "answer": 1
+  },
+  {
+    "question": "Which satellite performed the first successful voyage to Mars?",
+    "choice1": "Mariner 4",
+    "choice2": "Arnold 7",
+    "choice3": "Apollo 2",
+    "choice4": "Soyuz 1",
+    "answer": 1
+  },
+  {
+    "question": "When did the deadly year in the Space Race occur?",
+    "choice1": "1967",
+    "choice2": "1965",
+    "choice3": "1957",
+    "choice4": "1970",
+    "answer": 1
+
+  },
+  {
+    "question": "Which of the following names was not part of the Apollo 8 crew?",
+    "choice1": "Frank Borman",
+    "choice2": "James Lovell",
+    "choice3": "Oscar Peterson",
+    "choice4": "William Anders",
+    "answer": 3
+  },
+  {
+    "question": "How many people witnessed the first two men to walk on the Moon?",
+    "choice1": "1 Million",
+    "choice2": "723 Million",
+    "choice3": "100 Thousand",
+    "choice4": "3",
+    "answer": 2
+  },
+  {
+    "question": "When did the USSR launch the first space station?",
+    "choice1": "19 April 1971",
+    "choice2": "1 August 1971",
+    "choice3": "6 September 1969",
+    "choice4": "14 February 1974",
+    "answer": 1
+  },
+  {
+    "question": "What sculpture was left on the moon as a tribute to astronauts that died in the advancement of Space Explorations?",
+    "choice1": "An astronaut in a spacesuit",
+    "choice2": "Laika",
+    "choice3": "A spacecraft",
+    "choice4": "An astronaut saluting",
+    "answer": 1
+  },
+  {
+    "question": "What was the name of the first cooperative mission between the US and USSR?",
+    "choice1": "Apollo-Soyuz Mission",
+    "choice2": "Armstrong-Gagarin Initiative",
+    "choice3": "Project Unity",
+    "choice4": "US-USSR Cooperation",
+    "answer": 1
+  }
+]
