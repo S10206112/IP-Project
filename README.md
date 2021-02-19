@@ -14,22 +14,30 @@ These files should themselves either be included as a pdf file in the project it
 Include the Adobe XD wireframe as a folder. You can include the XD share url. 
 
 ## Features
-
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
  
 ### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
 
 Quiz Section
 - Quiz questions stored in a json storage database
 - Quiz questions are randomised
 - A local storage that stores and displays the Top 5 Scores of users that have completed the quiz
 
+Timeline section
+- This allows users who are interested in history or the space race to learn more about the space race, by having them scroll through the timeline
+- There are also fun fact sections where there are interesting facts that normal users most likely would not have known and they will also have learnt something
+
+
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+
+Scrolling animation
+- There will be a spaceship that follows the scrolling of the person so there will be an animation at all times when the user is reading through the timeline
+
 
 ### Features Left to Implement
 - Another feature idea
+
+Interactable objects
+- Plans to add more interactable objeect at on the timeline where the user would be able to move objects around
 
 Quiz Section
 - Plans to implement simple minigames such as Flappy Bird but with a Space-themed twist
@@ -41,6 +49,11 @@ In this section, you should mention all of the languages, frameworks, libraries,
 - [JQuery](https://jquery.com)
     - The project uses **JQuery** to simplify DOM manipulation.
 
+- [Sass](https://sass-lang.com/)
+    - The project uses **Sass** to get the parallex scrolling effect
+
+
+
 
 ## Testing
 1. Quiz Testing:
@@ -50,14 +63,33 @@ In this section, you should mention all of the languages, frameworks, libraries,
     4. Ensured that quiz questions are randomised after multiple attempts
     5. Ensured that the score is saved when saving the score
     6. Ensured the leaderboard displays the top 5 scores after doing the quiz multiple times
+
+2. Timeline Testing:
+    1. Start the webpage
+    2. Ensure that the contents are at the right place
+    3. Ensure that the 3d model are playing properly
+    4. Ensure that the fun fact pops up when hovering over it
+    5. Ensure that the page tranistions correctly when clicking a link
+
     
 
 
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
+- The webpage is optimized for desktops and laptops.
+
+- It can also be used on a hand held device however it might be harder to navigate and use the webpage
+
+
+
+
 You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+- During the normal testing from VScode the webpage works fine however when using the github link, the page does not link properly. The timeline link to the quiz does not work.
+
+
+
+
 
 ## Credits
 For the base codes for the Quiz section 
