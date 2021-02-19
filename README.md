@@ -95,15 +95,70 @@ You should also mention in this section any interesting bugs or problems you dis
 For the base codes for the Quiz section 
 - https://github.com/jamesqquick/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript
 
+For most of the code for the timeline section 
+- https://www.w3schools.com/
+
+
+
 ### Content
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+
+- Information for the timeline were taken fron [ROYAL MUSEUMS GREENWICH](https://www.rmg.co.uk/discover/explore/space-race-timeline)
+
+
 
 ### Media
 - Free image for the quiz background: https://unsplash.com/photos/fsH1KjbdjE8
 
+- These are all the sources for the images and gifs used in the timeline:
+
+https://cdn.mos.cms.futurecdn.net/niHaumMKM7FUUTzJ3Zc3kE-1200-80.jpg
+
+https://static01.nyt.com/images/2017/10/06/science/06xp-sputnik/06xp-sputnik-superJumbo.jpg
+
+https://i.gifer.com/7WwC.gif
+
+https://media2.giphy.com/media/3ohjUYAWr8qctstZMQ/giphy.gif
+
+https://www.afhistory.org/wp-content/uploads/NACA-Nasa-Collage.jpg
+
+https://d1p0gxnqcu0lvz.cloudfront.net/images/86-302634001telstar-crop.jpg.800x600_q60.original.jpg
+
+https://thumbs-prod.si-cdn.com/Vw7S6MF1_tcu3mcdUpwIPKkQpes=/420x240/https://public-media.si-cdn.com/filer/d1/4c/d14c7209-9f4e-4df0-9149-553e2ad3f877/luna-1_732.jpg
+
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjJG73YzIOkrasn6frX2fhhxiCB2YfEeCbaQ&usqp=CAU
+
+https://www.nasa.gov/sites/default/files/styles/full_width/public/thumbnails/image/luna_launch_color.jpg?itok=W30DkFNI
+
+https://1.bp.blogspot.com/-BFII8N1B4_g/XZrdxa_7Y0I/AAAAAAAAWBQ/BqkvP8HQ69kIYIBPNwu5JfsRa9t9IoALwCLcBGAsYHQ/s1600/5d85fd4b02e8bd1e20326062.jpg
+
+https://thenewdaily.com.au/wp-content/uploads/2019/08/1566120147-image-960x540.jpg
+
+https://www.spaceanswers.com/wp-content/uploads/2014/08/Ham_receives_his_well_deserved_apple.jpg
+
+https://i.gifer.com/2ZDD.gif
+
+https://i.pinimg.com/736x/fb/ef/99/fbef991f4cf7961b92dad1fe7dce9d46.jpg
+
+https://media0.giphy.com/media/3ohzdSNImYTQe2YkE0/200.gif
+
+https://64.media.tumblr.com/7bb952b206a248b494762931e50268bf/tumblr_muxl8hRwNY1qigaa4o1_400.gif
+
+https://media0.giphy.com/media/3o7btZ3T6y3JTmjg4w/giphy.gif
+
+https://airandspace.si.edu/sites/default/files/styles/callout_half/public/images/callouts/5390_640.jpg?itok=gutmOdCu
+
+https://scitechdaily.com/images/International-Space-Station.gif
+
+https://upload.wikimedia.org/wikipedia/commons/8/84/Fallen_Astronaut.jpg
+
+https://www.zed.fr/_caches/jimages/cd59060ee8556a7b18a008339fc86d85a87c2fe3.jpg
+
 ### Acknowledgements
 
 - Inspiration for the Quiz came from the Youtube Channel James Q Quick: https://www.youtube.com/channel/UC-T8W79DN6PBnzomelvqJYw
+
+- Inspiration for the Timeline came from the Youtube Channel Online Tutorials: https://www.youtube.com/watch?v=TawH-AqHTXc 
 
 ### Link to webpage
 
