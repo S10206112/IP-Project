@@ -72,3 +72,7 @@ For the base codes for the Quiz section
 ### Acknowledgements
 
 - Inspiration for the Quiz came from the Youtube Channel James Q Quick: https://www.youtube.com/channel/UC-T8W79DN6PBnzomelvqJYw
+
+### Link to webpage
+
+-  https://kirdesh.github.io/IP-Project/
