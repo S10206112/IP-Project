@@ -105,6 +105,9 @@ body {
 .swiper-slide.slide-24 {
   background: #fdd400;
 }
+.swiper-slide.slide-25 {
+  background: #ff0000;
+}
 
 .container {
   max-width: 1170px;
@@ -565,5 +568,7 @@ body {
   right: 0;
   background-position: center;
 }
+
+
 
 
